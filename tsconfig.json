@@ -14,7 +14,7 @@
     "sourceMap": true,
     "baseUrl": ".",
     "suppressImplicitAnyIndexErrors": true, //引用非定义的ts文件
-    "types": ["webpack-env", "vite/client"],
+    "types": [],
     "paths": {
       "@/*": ["src/*"]
     },
